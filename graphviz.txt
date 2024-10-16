@@ -1,0 +1,60 @@
+# Attributes at top level apply to the graph itself.
+outputorder=edgesfirst
+pad="0.25"
+fontsize=50
+#bgcolor=hotpink
+
+# layout= specifies a layout engine:
+#   circo — for circular layout of graphs
+#   dot — for drawing directed graphs (the default)
+#   fdp — for drawing undirected graphs
+#   neato — for drawing undirected graphs
+#   osage — for drawing large undirected graphs
+#   twopi — for radial layouts of graphs
+layout=fdp
+#layout=dot
+#layout=twopi
+
+# Default node attributes
+node [
+  shape = ellipsse,
+  style = "filled,bold"
+  color = black
+  fillcolor = "#F2F2F2"
+]
+
+# Uncomment this to hide labels
+#node [ label="" ]
+
+# Uncomment this to arrange nodes in a grid
+#layout=osage  edge [style=invis]
+
+# Edges
+"C++" -> { "Modern C++", "C++ for Robotics" }
+"ROS2" -> { "tf2", "urdf", "gazebo", "sensors", "ros2_control", "slam_toolbox", "nav2" }
+"Parallel Computing" -> { "OpenMP", "CUDA", "TBB" }
+"Point cloud processing" -> { "PCL", "Open3D" }
+"SLAM" -> { "SLAM Frontend", "SLAM Backend", "Visual SLAM", "LiDAR SLAM", "VINS", "Deep SLAM" }
+"SLAM Frontend" -> { "Rotation/Eigen", "Lie Algebra/Sophus", "Local feature & description", "Global feature", "Feature tracking", "Multiple View geometry"} 
+"SLAM Backend" -> { "RANSAC", "Non-linear optimization", "Bundle adjustment" }
+"Multiple view geometry" -> { "Epipolar Geometry", "Homography", "Triangulation", "PnP/DLT" }
+"Non-linear optimization" -> { "ceres", "g2o", "Symforce", "GTSAM" }
+"Datasets" -> { "KITTI", "NuScenes" }
+"3D Preception" -> { "coordinate transformations", "bev", "ipm" }
+"3D Computer Vision" -> { "3D Perception", "Neural Radiance Fields", "OpenCV", "Multiple view geometry", "NUS 3D Vision" }
+"Neural Radiance Fields" -> { "NeRF", "3DGS" }
+"Generative AI" -> { "Diffusion Models" }
+"Efficient AI" -> { "Quantization", "CUDA" }
+"Computer Graphics" -> { "3D Computer Vision", "Neural Radiance Fields" }
+"Engineering" -> { "Docker", "CI/CD", "Unit tests", "TDD" }
+"Visualization" -> { "Sophus", "rerun.io" }
+"Others" -> { "einops", "kornia", "pybind", "huggingface", "TensorRT" }
+# "Docker" -> { "ROS2", "SLAM" }
+
+
+# Node attributes
+"C++", "SLAM", "3D Computer Vision" [ fillcolor = "#ECD1C9" ]
+"Docker", "ROS2", "OpenMP", "CUDA", "TBB", "PCL", "Open3D", "ceres", "g2o", "Symforce", "GTSAM" [ fillcolor = "#FBB5AE" ]
+"Neural Radiance Fields", "Parallel Computing", "Point cloud processing" [ fillcolor = "#FFEFBC" ]
+"SLAM Frontend", "SLAM Backend" [ fillcolor = "#FADAE5" ]
+"Generative AI", "Efficient AI", "Computer Graphics" [ fillcolor = "#ECE3C1" ]
