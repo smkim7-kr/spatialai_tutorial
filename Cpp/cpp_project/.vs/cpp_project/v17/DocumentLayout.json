@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\cpp\\cpp_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\02_functions\\02_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_project\\src\\02_functions\\02_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\03_header_files\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_project\\src\\03_header_files\\log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\03_header_files\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_project\\src\\03_header_files\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_project\\src\\templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\01_variables\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_project\\src\\01_variables\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "02_functions.cpp",
+              "DocumentMoniker": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\02_functions\\02_functions.cpp",
+              "RelativeDocumentMoniker": "cpp_project\\src\\02_functions\\02_functions.cpp",
+              "ToolTip": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\02_functions\\02_functions.cpp",
+              "RelativeToolTip": "cpp_project\\src\\02_functions\\02_functions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-27T05:02:02.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log.cpp",
+              "DocumentMoniker": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\03_header_files\\log.cpp",
+              "RelativeDocumentMoniker": "cpp_project\\src\\03_header_files\\log.cpp",
+              "ToolTip": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\03_header_files\\log.cpp",
+              "RelativeToolTip": "cpp_project\\src\\03_header_files\\log.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-27T05:18:35.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\03_header_files\\main.cpp",
+              "RelativeDocumentMoniker": "cpp_project\\src\\03_header_files\\main.cpp",
+              "ToolTip": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\03_header_files\\main.cpp",
+              "RelativeToolTip": "cpp_project\\src\\03_header_files\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-27T05:15:38.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "templates.cpp",
+              "DocumentMoniker": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\templates.cpp",
+              "RelativeDocumentMoniker": "cpp_project\\src\\templates.cpp",
+              "ToolTip": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\templates.cpp",
+              "RelativeToolTip": "cpp_project\\src\\templates.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-27T05:02:31.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\01_variables\\main.cpp",
+              "RelativeDocumentMoniker": "cpp_project\\src\\01_variables\\main.cpp",
+              "ToolTip": "C:\\dev\\cpp\\cpp_project\\cpp_project\\src\\01_variables\\main.cpp",
+              "RelativeToolTip": "cpp_project\\src\\01_variables\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T05:10:04.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
