@@ -7,3 +7,18 @@
 [submodule "CUDA"]
 	path = CUDA
 	url = https://github.com/smkim7-kr/cuda_tutorial.git
+[submodule "Docker"]
+	path = Docker
+	url = https://github.com/smkim7-kr/Docker.git
+[submodule "Maths"]
+	path = Maths
+	url = https://github.com/smkim7-kr/Maths.git
+[submodule "OpenMP"]
+	path = OpenMP
+	url = https://github.com/smkim7-kr/OpenMP.git
+[submodule "ROS2"]
+	path = ROS2
+	url = https://github.com/smkim7-kr/ROS2.git
+[submodule "SLAM"]
+	path = SLAM
+	url = https://github.com/smkim7-kr/SLAM.git
