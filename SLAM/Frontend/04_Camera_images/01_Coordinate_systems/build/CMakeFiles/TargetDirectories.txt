@@ -1,3 +1,0 @@
-/home/smkim/spatialai_slam_tutorial/_tutorial/04_Camera_images/01_Coordinate_systems/build/CMakeFiles/CoordinateTransforms.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/04_Camera_images/01_Coordinate_systems/build/CMakeFiles/edit_cache.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/04_Camera_images/01_Coordinate_systems/build/CMakeFiles/rebuild_cache.dir

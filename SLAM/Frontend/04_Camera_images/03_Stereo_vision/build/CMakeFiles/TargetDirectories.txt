@@ -1,3 +1,0 @@
-/home/smkim/spatialai_slam_tutorial/_tutorial/04_Camera_images/03_Stereo_vision/build/CMakeFiles/stereo_point_cloud.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/04_Camera_images/03_Stereo_vision/build/CMakeFiles/edit_cache.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/04_Camera_images/03_Stereo_vision/build/CMakeFiles/rebuild_cache.dir

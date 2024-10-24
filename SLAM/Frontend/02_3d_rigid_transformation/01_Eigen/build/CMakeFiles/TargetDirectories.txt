@@ -1,3 +1,0 @@
-/home/smkim/spatialai_slam_tutorial/_tutorial/02_Eigen/build/CMakeFiles/MyEigenApp.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/02_Eigen/build/CMakeFiles/edit_cache.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/02_Eigen/build/CMakeFiles/rebuild_cache.dir

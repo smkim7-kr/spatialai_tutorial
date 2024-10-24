@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/CameraCoordinateTransformation.dir/main.cpp.o -o CameraCoordinateTransformation 

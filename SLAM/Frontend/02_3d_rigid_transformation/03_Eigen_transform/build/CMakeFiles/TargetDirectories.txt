@@ -1,3 +1,0 @@
-/home/smkim/spatialai_slam_tutorial/_tutorial/02_3d_rigid_transformation/03_Eigen_transform/build/CMakeFiles/CameraCoordinateTransformation.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/02_3d_rigid_transformation/03_Eigen_transform/build/CMakeFiles/edit_cache.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/02_3d_rigid_transformation/03_Eigen_transform/build/CMakeFiles/rebuild_cache.dir

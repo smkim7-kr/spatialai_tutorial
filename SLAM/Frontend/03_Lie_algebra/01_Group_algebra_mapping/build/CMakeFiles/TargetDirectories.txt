@@ -1,3 +1,0 @@
-/home/smkim/spatialai_slam_tutorial/_tutorial/03_Lie_algebra/01_Group_algebra_mapping/build/CMakeFiles/TransformationMaps.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/03_Lie_algebra/01_Group_algebra_mapping/build/CMakeFiles/edit_cache.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/03_Lie_algebra/01_Group_algebra_mapping/build/CMakeFiles/rebuild_cache.dir

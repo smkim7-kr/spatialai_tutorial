@@ -1,0 +1,9 @@
+[submodule "3DCV"]
+	path = 3DCV
+	url = https://github.com/smkim7-kr/3DCV.git
+[submodule "Cpp"]
+	path = Cpp
+	url = https://github.com/smkim7-kr/Cpp.git
+[submodule "CUDA"]
+	path = CUDA
+	url = https://github.com/smkim7-kr/cuda_tutorial.git

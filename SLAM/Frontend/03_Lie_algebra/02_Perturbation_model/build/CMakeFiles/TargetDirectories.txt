@@ -1,3 +1,0 @@
-/home/smkim/spatialai_slam_tutorial/_tutorial/03_Lie_algebra/02_Perturbation_model/build/CMakeFiles/so3_se3_perturbation.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/03_Lie_algebra/02_Perturbation_model/build/CMakeFiles/edit_cache.dir
-/home/smkim/spatialai_slam_tutorial/_tutorial/03_Lie_algebra/02_Perturbation_model/build/CMakeFiles/rebuild_cache.dir
