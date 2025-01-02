@@ -22,3 +22,6 @@
 [submodule "CUDA"]
 	path = CUDA
 	url = https://github.com/smkim7-kr/cuda_tutorial.git
+[submodule "VLM101"]
+	path = VLM101
+	url = https://github.com/smkim7-kr/VLM101.git
