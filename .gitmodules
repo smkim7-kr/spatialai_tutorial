@@ -25,3 +25,9 @@
 [submodule "VLM101"]
 	path = VLM101
 	url = https://github.com/smkim7-kr/VLM101.git
+[submodule "RL"]
+	path = RL
+	url = https://github.com/smkim7-kr/RL
+[submodule "JAX"]
+	path = JAX
+	url = https://github.com/smkim7-kr/JAX
