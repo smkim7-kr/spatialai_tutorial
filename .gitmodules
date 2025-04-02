@@ -31,3 +31,6 @@
 [submodule "JAX"]
 	path = JAX
 	url = https://github.com/smkim7-kr/JAX
+[submodule "EfficientAI"]
+	path = EfficientAI
+	url = https://github.com/smkim7-kr/EfficientAI
