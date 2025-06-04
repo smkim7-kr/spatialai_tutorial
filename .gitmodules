@@ -34,3 +34,6 @@
 [submodule "EfficientAI"]
 	path = EfficientAI
 	url = https://github.com/smkim7-kr/EfficientAI
+[submodule "ModernCpp"]
+	path = ModernCpp
+	url = https://github.com/smkim7-kr/ModernCpp.git
