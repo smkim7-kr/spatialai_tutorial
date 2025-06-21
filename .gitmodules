@@ -39,3 +39,6 @@
 	url = https://github.com/smkim7-kr/ModernCpp.git
 
 
+[submodule "Diffusion"]
+	path = Diffusion
+	url = https://github.com/smkim7-kr/Diffusion.git
